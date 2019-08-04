@@ -1,7 +1,7 @@
 # Site settings
 title: Blog - technology and science at TheReviewIndex
 description: "A blog for sharing thoughts on technology, science and insights at TheReviewIndex."
-url: "2je.github.io"
+url: "https://2je.github.io"
 ogimage: "img/default-ogimage.png"
 author:
   name: "The Review Index"
@@ -10,7 +10,7 @@ author:
 
 
 # Build settings
-baseurl: /blog # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /2je.github.io # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
